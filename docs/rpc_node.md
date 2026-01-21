@@ -29,3 +29,11 @@ curl -X POST https://rpc.drakernoise.com \
      -H "Content-Type: application/json" \
      --data '{"jsonrpc":"2.0", "method":"condenser_api.get_dynamic_global_properties", "params":[], "id":1}'
 ```
+
+## More Examples
+
+Check the `examples/` directory for ready-to-use scripts:
+
+- **[get_account_history.py](../examples/get_account_history.py)**: Fetch recent transactions for an account.
+- **[stream_blocks.js](../examples/stream_blocks.js)**: Listen for new blocks in real-time.
+- **[broadcast_transfer.js](../examples/broadcast_transfer.js)**: Send BLURT tokens using your active key.
