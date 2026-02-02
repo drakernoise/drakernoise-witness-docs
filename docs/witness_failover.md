@@ -4,7 +4,7 @@ This script provides an automated failover mechanism for Blurt witnesses. It mon
 
 ## Why use this?
 
-When a witness node goes offline or hangs, it starts missing blocks. This can lead to a significant drop in witness ranking. By automatically disabling the witness (setting the signing key to a null key), you stop being scheduled for blocks, preventing further "misses" until you can manually fix the issue and re-enable it.
+When a witness node goes offline or hangs, it starts missing blocks. By automatically disabling the witness (setting the signing key to a null key), you stop being scheduled for blocks, preventing further "misses" until you can manually fix the issue and re-enable it.
 
 ## Prerequisites
 
