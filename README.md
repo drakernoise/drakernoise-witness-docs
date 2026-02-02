@@ -18,6 +18,7 @@ Check out our detailed guides:
 - [RPC Node Documentation](docs/rpc_node.md): How to connect your dApp to our high-speed API.
 - [S3 Storage Integration](docs/s3_storage.md): Host decentralized assets using our MinIO gateway.
 - [P2P Configuration](docs/p2p_seed.md): Add our seed node to your witness config.
+- [Automated Failover Guide](docs/witness_failover.md): Protect your witness rank by detecting missed blocks automatically.
 
 ---
 

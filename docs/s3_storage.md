@@ -11,6 +11,10 @@ This service allows developers to host static assets (images, JSON metadata) in 
 | **Region** | `us-east-1` (Default) |
 | **SSL** | Yes (Required) |
 
+
+> [!NOTE]
+> You can verify the service status by visiting **[https://images.drakernoise.com](https://images.drakernoise.com)** in your browser to see our Developer Landing Page.
+
 ## Access Policy
 Access is currently **Invite Only** for active Blurt developers.
 Contact **@drakernoise** on Discord/Blurt to request your `Access Key` and `Secret Key`.
